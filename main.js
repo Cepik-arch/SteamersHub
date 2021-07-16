@@ -20,7 +20,7 @@ function makeDiv(posx,posy){
     $newdiv.css({
         'width':'80px',
         'height':'120px',
-        'background-color': 'red',
+        'background-color': 'white',
         'position':'absolute',
         'left':posx+'px',
         'top':posy+'px',
